@@ -7,8 +7,6 @@
 
 #### 🔎 현재 공부하고 있는 것은
 
-- Reactive Programming
-  - 최근 WPF 프로젝트에도 도입하여 공부하는 중이에요
 - dependency injection 의존성 주입
 - Docker Jenkins를 CI/CD 구축
 
