@@ -13,4 +13,4 @@
 #### 📃 더 알고 싶으시다면
 
 - Email : ndr.developer@gmail.com
-- Resume : [Repository](https://github.com/huhu0327/resume)
+- [Resume](https://github.com/huhu0327/resume)
