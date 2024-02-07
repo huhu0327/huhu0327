@@ -7,8 +7,16 @@
 
 #### 🔎 현재 공부하고 있는 것은
 
-- dependency injection
+- Blazor WASM을 사용하여 웹 페이지 개발
 - Jenkins과 Github Actions를 이용한 CI/CD 환경 구축
+
+#### ✨ 기술 스택
+<div>
+  ![C#](https://img.shields.io/badge/C%23-Winform-263732)
+  ![C#](https://img.shields.io/badge/C%23-WPF-263732)
+  ![C#](https://img.shields.io/badge/C%23-Avalonia-263732)
+  ![C#](https://img.shields.io/badge/C%23-Unity3D-263732)
+</div>
 
 #### 📃 더 알고 싶으시다면
 
