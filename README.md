@@ -18,5 +18,5 @@
 
 #### 📃 더 알고 싶으시다면
 
-- Email : developer.diff@gmail.com
-- [Resume](https://github.com/huhu0327/resume)
+- Email: developer.diff@gmail.com
+- 이메일: [Resume](https://github.com/huhu0327/resume)
