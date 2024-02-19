@@ -18,5 +18,5 @@
 
 #### 📃 더 알고 싶으시다면
 
-- Email : namdalen1115@gmail.com
+- Email : developer.diff@gmail.com
 - [Resume](https://github.com/huhu0327/resume)
