@@ -27,4 +27,4 @@
 
 ## 📬 Contact & Links
 - **Email**: developer.diff@gmail.com
-- **Blog / Portfolio**: [GitHub Repositories](https://github.com/huhu0327?tab=repositories)
+- **Blog / Portfolio**: [GitHub Repositories](https://github.com/huhu0327?tab=repositories) / [Notion](https://huhu0327.notion.site/3e2f4c5840ef80c380f8c589c9e9b651)
