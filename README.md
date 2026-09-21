@@ -54,5 +54,5 @@
 ---
 
 ## 📬 Contact & Links
-- **Email**: dev***********@gmail.com
+- **Email**: developer.diff@gmail.com
 - **Blog / Portfolio**: [GitHub Repositories](https://github.com/huhu0327?tab=repositories)
